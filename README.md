@@ -7,11 +7,14 @@
     <td align="center">
       <img src="https://github.com/shriram7057/shriram7057/blob/main/Top%20100%20Liked!.gif?raw=true" width="200"/>
     </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=python" width="190"/>
+  </td>
   </tr>
 </table>
 
 <!-- TITLE -->
-<h1 align="center">LeetCode Top 100 Liked Challenge</h1>
+<h1 align="center">LeetCode Top 100 Liked Challenge⚡</h1>
 <h3 align="center">Python Solutions</h3>
 
 <table align="center" cellpadding="10" width="70%">
